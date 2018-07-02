@@ -1,0 +1,452 @@
+/*---------------------------------------------------------------------------*/		 		 
+/*                              global                             			 */		 
+/*---------------------------------------------------------------------------*/		 		 
+.curseur:hover{
+    cursor              : pointer;
+}
+
+.ui-tooltip {
+	padding			: 15px 15px;
+	min-width		: 250px;
+      
+}
+
+
+/*---------------------------------------------------------------------------*/		 		 
+/*                              modification JQUERY UI                       */		 
+/*---------------------------------------------------------------------------*/		 		 
+.ui-autocomplete{
+	z-index 			: 10000;
+}
+
+
+/*---------------------------------------------------------------------------*/		 		 
+/*                              message d'erreur                             */		 
+/*---------------------------------------------------------------------------*/		 		 
+#msg-erreur{
+    position            : fixed;
+    left				: 50%; /* on positionne l'élément à la moitié de l'écran */
+    margin-left			: -500px; /* on applique une marge négative de la moitié de la largeur de l'élément */
+    width           	: 1000px; 
+    top					: 0px;
+    background-color	: #ffffff;
+    z-index				: 1000;
+}
+
+#msg-erreur .alert{
+    margin-bottom		: 2px;
+    border-radius		: 0;
+}
+
+/*---------------------------------------------------------------------------*/		 		 
+/*                              message d'attente                            */		 
+/*---------------------------------------------------------------------------*/		 		 
+#attente{
+	width				:50px;
+	height				:50px;
+	background-image	:url(../images/ajax-loader.gif);
+	background-repeat	:no-repeat;
+	background-position	:10px ;
+	text-align			:center;
+}
+
+
+/*---------------------------------------------------------------------------*/		 		 
+/*                              fenetre de connexion                         */		 
+/*---------------------------------------------------------------------------*/		 		 
+
+/* Bordered form */
+#connexion form{
+	background-color:white;
+    border: 3px solid #f1f1f1;
+}
+
+/* Full-width inputs */
+#connexion input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+#connexion button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+/* Add a hover effect for buttons */
+#connexion button:hover {
+    opacity: 0.8;
+}
+
+/* Center the avatar image inside this container */
+#connexion .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+/* Avatar image */
+#connexion img.avatar {
+    width				: 300px;
+    height				: 300px;
+    border-radius		: 50%;
+}
+
+/* Add padding to containers */
+#connexion .container {
+    padding: 16px;
+}
+
+/* The "Forgot password" text */
+#connexion span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+    #connexion span.psw {
+        display: block;
+        float: none;
+    }
+    #connexion .cancelbtn {
+        width: 100%;
+    }
+} 
+
+
+/*---------------------------------------------------------------------------*/		 		 
+/*                              page                                         */		 
+/*---------------------------------------------------------------------------*/		
+#page{
+	border-left-width	: 6px;
+	border-left-style	: solid;
+	border-left-color	: red;
+	border-bottom-width	: 6px;
+	border-bottom-style	: solid;
+	border-bottom-color	: red;
+}
+
+/*---------------------------------------------------------------------------*/		 		 
+/*                                  fenetre details                          */		 
+/*---------------------------------------------------------------------------*/		 		 
+#details {
+	position			: fixed;
+	top 				: 50px;
+	width				: 420px;
+	margin 				: 0px 20px 0px 10px;
+	padding				: 20px 10px 10px 10px; 
+	background-color	: #FFFFFF;
+	border				: 1px solid #000000;
+	box-shadow			: 2px 2px 10px gray;
+	-moz-box-shadow		: 2px 2px 10px gray;
+	-webkit-box-shadow	: 2px 2px 10px gray;
+	border-radius		: 10px 10px 10px 10px; 
+	-moz-border-radius	: 10px 10px 10px 10px;
+	-webkit-border-radius:10px 10px 10px 10px;
+}
+
+#details h1{
+	 font-size			: 2em; 
+}
+
+#details h2{
+	 font-size			: 1.5em; 
+}
+
+#details .photo{
+	text-align			: center;
+	
+}
+
+#details table{
+	margin 				: 20px 0px 0px 10px;
+}
+
+#details p{
+	margin 				: 20px 0px 20px 10px;
+}
+
+#details .modifier{
+	position            : absolute;			
+	top				    : 10px;
+	right				: 10px;
+}
+
+#details .supprimer{
+	position            : absolute;			
+	top				    : 10px;
+	right				: 60px;
+}
+
+/* NOTE */
+#details .liste-notes{
+	position            : absolute;			
+	top				    : 20px;
+	left				: 15px;	
+	background-color	: #FFFFFF;
+	width 				: 50px;	
+}
+
+#details .liste-notes .nok {
+    opacity				: 0.1;
+    filter				: alpha(opacity=10); /* For IE8 and earlier */
+}
+
+
+/*---------------------------------------------------------------------------*/		 		 
+/*                           fenetre ajout document                          */		 
+/*---------------------------------------------------------------------------*/		 		 
+#ajout .photo{
+	background			: url('../images/icone_ajouter_img_48.png') no-repeat 0px 0px;
+	padding				: 0px 0px 0px 0px;
+	height				: 45px;
+	width 				: 45px;
+	margin				: -2px 0px 0px 10px;	
+	position            : absolute;	
+	top				    : 0px;
+	left				: 485px;
+}
+
+#ajout .photo input{
+	opacity				: 0.0;
+	width 				: 48px;
+	height				: 48px;
+}
+
+#ajout input, select{
+	width 				: 480px;
+	font-size			: 1.1em;
+}
+
+#ajout table td{
+	height 				: 50px;
+}
+
+/* Stat */
+#stat_documents{
+	position			: absolute;
+	top					: 49px;
+	left				: 750px;
+	
+}
+
+/*---------------------------------------------------------------------------*/		 		 
+/*                           tableau multimedia                              */		 
+/*---------------------------------------------------------------------------*/		 		 
+#Tmultimedia th input{
+	position		: relative;
+	top 			: 5px;
+	width			: 100%;
+	
+
+}
+
+/*---------------------------------------------------------------------------*/		 		 
+/*                        modification BOOTSTRAP                             */		 
+/*---------------------------------------------------------------------------*/		 		
+/*TABLE*/
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+	background-color: #007fff;
+	color 			: white;
+}
+
+/*MENU DROITE*/
+#menu-droite .icon-bar {
+	position			: fixed;
+	top 				: 0px;
+	right				: 0px;
+    width				: 90px; 
+    background-color	: #007fff; 
+}
+
+#menu-droite .icon-bar a {
+    display				: block; /* Make the links appear below each other instead of side-by-side */
+    text-align			: center; /* Center-align text */
+    padding				: 16px; /* Add some padding */
+    transition			: all 0.3s ease; /* Add transition for hover effects */
+    color				: white; /* White text color */
+    font-size			: 36px; /* Increased font-size */
+}
+
+#menu-droite .icon-bar a:hover {
+    background-color	: #29526d; /* Add a hover color */
+}
+
+#menu-droite .active {
+    background-color	: #4CAF50; /* Add an active/current color */
+}
+
+/* SELECTION GENRE */
+#menu-genre{
+	position			: fixed;
+	top 				: 83px;
+	right				: 90px;
+	background-color	: #4CAF50;
+	padding 			: 10px 10px 10px 10px;
+	height 				: 84px;
+}
+
+#menu-genre select{
+	width 				: 200px;
+}
+
+.stat{
+	margin 				: 20px 0px 0px 0px;
+	width				: 150px; 
+}
+
+header.container-fluid{
+	height				: 350px;
+	margin				: 33px 0 0 0;
+	padding				: 0 0 0 0;
+	position			: fixed;
+	
+}
+
+
+/*---------------------------------------------------------------------------*/		 		 
+/*                           PATHFINDER                                      */		 
+/*---------------------------------------------------------------------------*/		
+/* Center the avatar image inside this container */
+.panel .imgcontainer {
+    margin				: 0px 0 0px 0;
+    position			: absolute;
+    right				: 5px;
+    top					: 5px;
+}
+
+/* Avatar image */
+.panel .avatar {
+    width				: 100px;
+    height				: 100px;
+    border-radius		: 50%;
+}
+
+#entete.container-fluid {
+	margin				: 200px 0 0 0;
+	padding				: 0 0 0 35px;
+	position			: fixed;
+}
+
+#entete img{
+	z-index 			: 1;
+	width				: 250px;
+    height				: 150px;
+}
+
+#entete h1{
+	z-index 			: 10;
+	position			: relative;
+	top 				: -100px;
+	margin				: 0 0 0 45px;
+	
+}
+
+#pathfinder{
+	padding-top			: 205px;	
+}
+
+#pathfinder .panel{
+	box-shadow			: 8px 8px 12px #aaa;	
+}
+
+#pathfinder table{
+	width				: 50%;
+	margin				: auto;
+}
+
+#pathfinder h2{
+	border-bottom		: 1px solid black;
+	 
+}
+
+#pathfinder .alert {
+	font-size : 20px;
+}
+
+.panel-toggle{
+	position 			: absolute;
+	top 				: 5px;
+	left				: 5px;
+
+}
+
+/*---------------------------------------------------------------------------*/		 		 
+/*                           RECETTES                                        */		 
+/*---------------------------------------------------------------------------*/		
+/* Center the avatar image inside this container */
+#recette .imgcontainer {
+    margin				: 0px 0 0px 0;
+    position			: absolute;
+    right				: 5px;
+    top					: 5px;
+}
+
+/* Avatar image */
+#recette .avatar {
+    width				: 300px;
+    height				: 300px;
+    border-radius		: 50%;
+}
+
+.recette-vignette{
+	width				: 70px;
+    height				: 70px;
+    float				: left;
+   
+}
+
+#edition-liste-pas{
+	position 			: relative;
+
+}
+
+#edition-liste-pas .ajouter-pas{
+	position 			: absolute;
+	top 				: 0px;
+	right 				: 6px;
+	font-size			: 35px
+}
+
+#edition-liste-pas {
+	padding				: 20px 20px 20px 20px ;
+	background-color	: #fcf8e3;
+}
+
+#edition-liste-ingredient{
+	background-color	: #fcf8e3;
+}
+
+#recette .bouton{
+	font-size			: 16px
+}
+
+#recette .liste-ingredient td{
+	vertical-align		: middle;
+}
+
+#recette .liste-ingredient td:nth-child(1) {
+    width				: 55%;
+}
+
+#recette .liste-ingredient td:nth-child(2) {
+    width				: 15%;
+}
+
+#recette .liste-ingredient td:nth-child(3) {
+    width				: 15%;
+}
+
+#recette .liste-ingredient td:nth-child(4) {
+    width				: 15%;
+}
+

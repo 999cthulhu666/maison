@@ -1,0 +1,173 @@
+L S7OTBXSX P000008488T000007752 ## TBL          18:10:16,890 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009108T000003704 ## TBL          17:13:06,738 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008568T000005784 ## TBL          16:49:23,093 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007668T000006800 ## TBL          10:08:23,376 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000003952T000007276 ## TBL          16:59:48,210 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008844T000004328 ## TBL          17:03:23,649 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000005760T000002392 ## TBL          13:11:13,256 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006720T000008176 ## TBL          16:57:21,846 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007560T000005284 ## TBL          17:07:58,977 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000003580T000002848 ## TBL          16:14:10,543 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006240T000007944 ## TBL          12:04:27,643 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000003912T000001060 ## TBL          09:38:26,025 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000001712T000005876 ## TBL          10:45:55,451 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000001984T000007792 ## TBL          17:33:22,346 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000005124T000005632 ## TBL          12:30:32,100 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000001140T000001976 ## TBL          08:42:32,811 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=19, service=72 
+L S7OTBXSX P000008716T000008720 ## TBL          10:30:35,978 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=14, service=58 
+L S7OTBXSX P000008716T000008720 ## TBL          10:31:48,991 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=14, service=58 
+L S7OTBXSX P000008716T000008720 ## TBL          10:33:09,101 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=14, service=58 
+L S7OTBXSX P000008716T000008720 ## TBL          10:35:39,181 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=14, service=58 
+L S7OTBXSX P000008716T000008720 ## TBL          10:45:37,470 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=14, service=58 
+L S7OTBXSX P000008716T000008720 ## TBL          10:46:50,479 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=14, service=58 
+L S7OTBXSX P000008716T000008720 ## TBL          10:48:03,492 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=25, service=16 
+L S7OTBXSX P000008716T000008720 ## TBL          10:49:16,505 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=14, service=58 
+L S7OTBXSX P000008716T000008720 ## TBL          10:50:29,511 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=26, service=0 
+L S7OTBXSX P000008716T000008720 ## TBL          10:53:31,007 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=14, service=58 
+L S7OTBXSX P000008716T000008720 ## TBL          10:54:44,012 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=14, service=58 
+L S7OTBXSX P000008716T000008720 ## TBL          10:55:57,016 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=14, service=58 
+L S7OTBXSX P000008716T000008720 ## TBL          10:57:10,021 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=25, service=16 
+L S7OTBXSX P000008716T000008720 ## TBL          10:58:23,024 tblwnd.c,00881 timer_proc() ERROR: Layer7 Timeout after 72 sec ==> 0x4022, fun_typ=14, service=58 
+L S7OTBXSX P000008716T000008720 ## TBL          10:58:59,524 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000002624T000006180 ## TBL          17:17:20,413 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008020T000007460 ## TBL          17:24:36,572 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007316T000002240 ## TBL          17:03:05,295 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006572T000003400 ## TBL          12:01:07,335 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000005472T000007680 ## TBL          14:59:07,756 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000005556T000005388 ## TBL          17:05:08,549 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000002788T000000488 ## TBL          17:04:17,456 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006284T000001376 ## TBL          17:11:05,476 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006640T000004716 ## TBL          17:29:27,690 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008692T000008696 ## TBL          16:50:52,979 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008612T000008376 ## TBL          17:12:11,864 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007480T000007484 ## TBL          11:37:30,465 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000001192T000004940 ## TBL          16:06:57,326 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009564T000008876 ## TBL          18:03:39,397 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006020T000009068 ## TBL          17:03:14,239 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008800T000004632 ## TBL          11:55:45,365 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009132T000007476 ## TBL          16:06:40,193 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008408T000008160 ## TBL          16:07:57,154 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000005084T000001152 ## TBL          17:24:19,009 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000004708T000004944 ## TBL          13:25:45,766 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009044T000006244 ## TBL          09:49:05,524 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008892T000008640 ## TBL          18:03:45,197 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000005868T000009844 ## TBL          15:56:25,468 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008388T000001576 ## TBL          15:31:25,635 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000001808T000009332 ## TBL          15:35:03,290 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000010092T000010180 ## TBL          18:32:01,169 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006772T000005704 ## TBL          14:36:27,002 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008296T000009020 ## TBL          14:37:56,366 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000010572T000009292 ## TBL          18:34:19,833 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000002752T000013984 ## TBL          17:22:12,168 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009192T000009428 ## TBL          17:16:08,119 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009924T000010056 ## TBL          17:39:10,916 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008820T000007044 ## TBL          17:32:58,449 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000001460T000009800 ## TBL          18:31:09,381 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007348T000001348 ## TBL          12:38:52,548 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000003280T000007536 ## TBL          01:59:35,684 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008184T000008996 ## TBL          16:36:19,780 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008924T000007932 ## TBL          17:17:56,087 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008732T000007636 ## TBL          13:22:40,151 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000002916T000007616 ## TBL          18:05:30,973 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009068T000009072 ## TBL          14:13:33,290 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008200T000001588 ## TBL          15:05:15,606 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006148T000008048 ## TBL          18:22:00,770 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000003076T000005548 ## TBL          13:02:47,076 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000005540T000011148 ## TBL          17:38:05,090 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000000416T000010752 ## TBL          17:28:28,099 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000004052T000007064 ## TBL          13:12:57,856 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000010036T000008240 ## TBL          18:14:58,941 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008936T000008392 ## TBL          17:43:29,462 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009076T000006336 ## TBL          18:08:20,961 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006624T000000476 ## TBL          17:11:56,501 tbll7au.c,11890 rcv_l7rb() Error on SCP_send(CLOSE_REQ): ret=-1 scp_errno=207 (0xcf) l4_error=0x42ff 
+L S7OTBXSX P000006624T000000476 ## TBL          17:11:56,511 tbll7au.c,11894 rcv_l7rb() ERROR: Can't close connection, "S7ONLINE" hdl=8, cid=45 
+L S7OTBXSX P000006624T000000476 ## TBL          17:12:03,111 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009512T000008724 ## TBL          18:06:14,735 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000003212T000008540 ## TBL          08:51:41,261 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000004480T000007388 ## TBL          10:42:03,338 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000003656T000003016 ## TBL          18:20:53,410 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007320T000008276 ## TBL          13:28:56,832 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007140T000008004 ## TBL          16:43:17,439 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000001028T000009468 ## TBL          16:50:36,028 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000005692T000006292 ## TBL          09:25:47,293 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006472T000008132 ## TBL          11:23:31,600 tbll7au.c,11890 rcv_l7rb() Error on SCP_send(CLOSE_REQ): ret=-1 scp_errno=207 (0xcf) l4_error=0x42ff 
+L S7OTBXSX P000006472T000008132 ## TBL          11:23:31,610 tbll7au.c,11894 rcv_l7rb() ERROR: Can't close connection, "S7ONLINE" hdl=6, cid=256 
+L S7OTBXSX P000008052T000008056 ## TBL          10:27:44,726 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008184T000008000 ## TBL          14:13:51,930 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008788T000008380 ## TBL          15:41:10,248 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000004408T000008484 ## TBL          15:49:37,348 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007464T000001616 ## TBL          16:18:32,761 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000005812T000007604 ## TBL          11:15:05,930 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007720T000005428 ## TBL          17:54:06,735 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000004044T000004060 ## TBL          11:49:45,656 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000001780T000002264 ## TBL          16:53:44,631 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008000T000007092 ## TBL          16:55:49,495 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000002124T000004568 ## TBL          16:56:01,026 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006612T000005872 ## TBL          18:29:01,486 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008716T000008720 ## TBL          17:13:34,114 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000003512T000003508 ## TBL          11:05:20,711 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006576T000003044 ## TBL          17:33:33,400 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007924T000007916 ## TBL          15:40:57,211 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008516T000003660 ## TBL          15:47:36,221 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000003020T000008664 ## TBL          16:02:09,843 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008644T000008268 ## TBL          16:12:38,024 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009764T000009760 ## TBL          11:40:52,633 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007420T000008496 ## TBL          13:33:35,206 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009084T000001584 ## TBL          09:36:01,730 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006164T000009200 ## TBL          09:53:09,510 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008160T000006344 ## TBL          11:38:55,392 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000010708T000009016 ## TBL          15:27:23,534 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000011212T000004200 ## TBL          11:34:32,121 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006172T000001796 ## TBL          18:01:16,575 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007008T000007700 ## TBL          01:40:12,001 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+                                                                                                                                                    L S7OTBXSX P000009052T000009056 ## TBL          03:34:11,082 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008288T000006104 ## TBL          13:37:24,075 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009940T000010748 ## TBL          15:22:11,862 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000005780T000001328 ## TBL          15:22:32,972 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009824T000010760 ## TBL          17:33:12,823 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000010004T000007204 ## TBL          14:28:01,680 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000005228T000008416 ## TBL          16:04:09,640 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008788T000008800 ## TBL          14:47:42,863 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000010272T000010304 ## TBL          17:09:27,600 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000001460T000009520 ## TBL          09:24:47,227 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000013168T000011984 ## TBL          14:47:17,138 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000012792T000005444 ## TBL          17:28:04,970 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000011884T000008112 ## TBL          09:51:35,317 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009104T000009128 ## TBL          11:28:06,848 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000000768T000000264 ## TBL          14:27:48,436 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007788T000008592 ## TBL          14:50:27,778 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006924T000008380 ## TBL          10:44:05,975 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000004912T000008956 ## TBL          12:52:42,581 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000000836T000000736 ## TBL          15:09:15,177 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007840T000008864 ## TBL          16:31:05,081 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007196T000007968 ## TBL          17:56:00,463 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009160T000007700 ## TBL          11:31:40,621 tbll7au.c,10370 rcv_l4rb() ERROR: Unexpected CLOSE_REQ, cid=238(0xee) response_code=0x6 scp_errno=0x0
+L S7OTBXSX P000009160T000007700 ## TBL          12:25:26,629 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000004908T000000768 ## TBL          17:34:35,191 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008116T000001932 ## TBL          09:36:20,164 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000002720T000004004 ## TBL          18:30:11,325 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000010584T000010256 ## TBL          16:37:22,784 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008764T000009152 ## TBL          17:39:29,299 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008900T000008904 ## TBL          15:43:48,819 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000003532T000010016 ## TBL          15:52:45,469 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000010092T000001416 ## TBL          10:14:44,393 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000007792T000005204 ## TBL          16:12:05,869 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000010056T000010060 ## TBL          18:00:35,050 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009164T000008976 ## TBL          16:51:39,728 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008764T000002724 ## TBL          18:00:14,069 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009392T000011244 ## TBL          08:23:49,612 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008324T000004996 ## TBL          16:01:42,135 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000011984T000012304 ## TBL          18:10:11,284 tbll7au.c,09641 rcv_l4rb() ERROR: Can't find any Connection for the received L4RB: channel=0, cid=120, try CLOSE_REQ 
+L S7OTBXSX P000011984T000012304 ## TBL          18:10:11,300 tbll7au.c,10370 rcv_l4rb() ERROR: Unexpected CLOSE_REQ, cid=120(0x78) response_code=0x7 scp_errno=0x0
+L S7OTBXSX P000000900T000006884 ## TBL          19:54:25,608 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009304T000008784 ## TBL          19:56:43,449 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000008532T000003740 ## TBL          09:14:27,984 tbll7au.c,10370 rcv_l4rb() ERROR: Unexpected CLOSE_REQ, cid=90(0x5a) response_code=0x6 scp_errno=0x0
+L S7OTBXSX P000008532T000003740 ## TBL          09:14:28,046 tbll7au.c,10370 rcv_l4rb() ERROR: Unexpected CLOSE_REQ, cid=91(0x5b) response_code=0x6 scp_errno=0x0
+L S7OTBXSX P000008532T000003740 ## TBL          16:38:49,260 tbll7au.c,11735 rcv_l7rb() Error on SCP_send(CLOSE_REQ): ret=-1 scp_errno=207 (0xcf) l4_error=0x42ff 
+L S7OTBXSX P000008532T000003740 ## TBL          16:38:49,275 tbll7au.c,11739 rcv_l7rb() ERROR: Can't close connection, "S7ONLINE" hdl=5, cid=210 
+L S7OTBXSX P000006868T000009088 ## TBL          17:16:49,150 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000011056T000004724 ## TBL          16:59:47,338 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000010100T000011220 ## TBL          16:04:05,764 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000009076T000008480 ## TBL          11:34:37,027 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006976T000006116 ## TBL          13:49:05,219 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 
+L S7OTBXSX P000006032T000007828 ## TBL          14:49:35,187 tblwnd.c,00944 timer_proc() ERROR: No more Applikation available ==> Server Shutdown 

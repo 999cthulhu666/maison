@@ -8,7 +8,7 @@ $maison = new maison(['root'=>$_SERVER["DOCUMENT_ROOT"],'page'=>__FILE__]);
 $liste_recette		= $maison->recette->liste('recette',['sorte'=>1]);
 $liste_categorie	= $maison->recette->liste('type');
 $liste_ingredient	= $maison->recette->liste('ingredient');
-$liste_unite		= $maison->recette->liste('unite');
+$liste_unite		= $maison->recette->liste('uniteZZ');
 
 //var_dump($liste_categorie);
 /*

@@ -6,7 +6,7 @@ $usine = new heineken(['root'=>$_SERVER["DOCUMENT_ROOT"],'page'=>__FILE__]);
 
 //Chargement de l'entête de la page HTML
 echo $usine->html_head([
-    titre   => 'ProfilsAAA',
+    titre   => 'ProfilsBBB',
     charset => 'UTF-8'
 ]);
 

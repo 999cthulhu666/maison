@@ -12,7 +12,7 @@ echo $usine->html_head([
 
 //Chargement de la vue
 $contenu = $usine->vue([
-    'idFFF'            => $usine->utilisateurs->utilisateur->id(),  
+    'idZZZZ'            => $usine->utilisateurs->utilisateur->id(),  
     'nom'           => $usine->utilisateurs->utilisateur->nom(),
     'identifiant'   => $usine->utilisateurs->utilisateur->identifiant(),
     'groupe'        => $usine->utilisateurs->utilisateur->groupe()
